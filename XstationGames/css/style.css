@@ -1,0 +1,51 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(/img/assassins-creed-valhalla-4k-game-ul-1366x768.jpg);
+    background-size: cover;
+    
+}
+
+.d-height{
+    max-height: 70vh;
+}
+
+
+
+
+.header1{
+    background-color: rgb(3, 3, 82);
+    text-align: center;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 2px black;
+}    
+
+
+.carousel-item img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.carousel-item active{
+    background-color: rgb(3, 3, 82);
+}
+
+.teste{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+
+.catalog-1{
+    text-align: center;
+    color: aliceblue;
+}
+
+    
